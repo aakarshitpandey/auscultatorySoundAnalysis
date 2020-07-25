@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4997ced263c20eb460ddbe2c37ec1b87",
+    "revision": "0cc25e1cd358158e5776693fad28fd8f",
     "url": "/auscultatorySoundAnalysis/index.html"
   },
   {
-    "revision": "db7771af8efff3d5975b",
+    "revision": "08ffc893ad8eed41e627",
     "url": "/auscultatorySoundAnalysis/static/css/main.6333ec6f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/auscultatorySoundAnalysis/static/js/2.79205257.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db7771af8efff3d5975b",
-    "url": "/auscultatorySoundAnalysis/static/js/main.fdd4ced9.chunk.js"
+    "revision": "08ffc893ad8eed41e627",
+    "url": "/auscultatorySoundAnalysis/static/js/main.6a06142e.chunk.js"
   },
   {
     "revision": "b329cbff786dde1e6ebf",
