@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/auscultatorySoundAnalysis/static/css/main.f339d3f7.chunk.css",
-    "main.js": "/auscultatorySoundAnalysis/static/js/main.2da160a2.chunk.js",
-    "main.js.map": "/auscultatorySoundAnalysis/static/js/main.2da160a2.chunk.js.map",
+    "main.css": "/auscultatorySoundAnalysis/static/css/main.65584ab0.chunk.css",
+    "main.js": "/auscultatorySoundAnalysis/static/js/main.b1960eb6.chunk.js",
+    "main.js.map": "/auscultatorySoundAnalysis/static/js/main.b1960eb6.chunk.js.map",
     "runtime-main.js": "/auscultatorySoundAnalysis/static/js/runtime-main.f10e0cff.js",
     "runtime-main.js.map": "/auscultatorySoundAnalysis/static/js/runtime-main.f10e0cff.js.map",
-    "static/js/2.6251c3fb.chunk.js": "/auscultatorySoundAnalysis/static/js/2.6251c3fb.chunk.js",
-    "static/js/2.6251c3fb.chunk.js.map": "/auscultatorySoundAnalysis/static/js/2.6251c3fb.chunk.js.map",
+    "static/js/2.2c11dddd.chunk.js": "/auscultatorySoundAnalysis/static/js/2.2c11dddd.chunk.js",
+    "static/js/2.2c11dddd.chunk.js.map": "/auscultatorySoundAnalysis/static/js/2.2c11dddd.chunk.js.map",
     "index.html": "/auscultatorySoundAnalysis/index.html",
-    "precache-manifest.5a42dbba4e7a7f9a238c5a6a6241fffa.js": "/auscultatorySoundAnalysis/precache-manifest.5a42dbba4e7a7f9a238c5a6a6241fffa.js",
+    "precache-manifest.f098dbe5068e685963e105165b996638.js": "/auscultatorySoundAnalysis/precache-manifest.f098dbe5068e685963e105165b996638.js",
     "service-worker.js": "/auscultatorySoundAnalysis/service-worker.js",
-    "static/css/main.f339d3f7.chunk.css.map": "/auscultatorySoundAnalysis/static/css/main.f339d3f7.chunk.css.map",
-    "static/js/2.6251c3fb.chunk.js.LICENSE.txt": "/auscultatorySoundAnalysis/static/js/2.6251c3fb.chunk.js.LICENSE.txt",
+    "static/css/main.65584ab0.chunk.css.map": "/auscultatorySoundAnalysis/static/css/main.65584ab0.chunk.css.map",
+    "static/js/2.2c11dddd.chunk.js.LICENSE.txt": "/auscultatorySoundAnalysis/static/js/2.2c11dddd.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/auscultatorySoundAnalysis/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f10e0cff.js",
-    "static/js/2.6251c3fb.chunk.js",
-    "static/css/main.f339d3f7.chunk.css",
-    "static/js/main.2da160a2.chunk.js"
+    "static/js/2.2c11dddd.chunk.js",
+    "static/css/main.65584ab0.chunk.css",
+    "static/js/main.b1960eb6.chunk.js"
   ]
 }

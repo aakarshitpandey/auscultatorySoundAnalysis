@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "430dbfc90969804f32a4ca80f8668663",
+    "revision": "e69c7816dca4e13fbe790ae10614fd0a",
     "url": "/auscultatorySoundAnalysis/index.html"
   },
   {
-    "revision": "1ace67818efe77d4ca6c",
-    "url": "/auscultatorySoundAnalysis/static/css/main.f339d3f7.chunk.css"
+    "revision": "ca2f1dcc1e2283c460b4",
+    "url": "/auscultatorySoundAnalysis/static/css/main.65584ab0.chunk.css"
   },
   {
-    "revision": "8d283fe88a9cc9c1bb9f",
-    "url": "/auscultatorySoundAnalysis/static/js/2.6251c3fb.chunk.js"
+    "revision": "aec144429cbff26d1a29",
+    "url": "/auscultatorySoundAnalysis/static/js/2.2c11dddd.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/auscultatorySoundAnalysis/static/js/2.6251c3fb.chunk.js.LICENSE.txt"
+    "url": "/auscultatorySoundAnalysis/static/js/2.2c11dddd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ace67818efe77d4ca6c",
-    "url": "/auscultatorySoundAnalysis/static/js/main.2da160a2.chunk.js"
+    "revision": "ca2f1dcc1e2283c460b4",
+    "url": "/auscultatorySoundAnalysis/static/js/main.b1960eb6.chunk.js"
   },
   {
     "revision": "b329cbff786dde1e6ebf",
